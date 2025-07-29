@@ -1,0 +1,78 @@
+*{ 
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    padding: 80px;
+    padding-left: 20px;
+}
+.head{
+    background-color: #292e36;
+    padding: 30px 30px;
+    justify-content: space-between;
+    padding-top: 50px;
+    border-radius: 2px 2px;
+    align-items: center;
+    
+}
+
+.call{
+    color: #fff8f5;
+    padding: 10px 20px;
+    margin-top: 15px;
+    border-radius: 2px;
+    border: #e1b168 solid;
+    height: 30px;
+    display: inline;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+    gap: 200px;
+}
+.cart{
+    height: 20px;
+    width: 30px
+}
+.Reserve{
+    background-color: #E1b168;
+    padding: 10px 20p;
+    margin-top: 30px;
+    border: 1px solid #e1b168;
+    cursor: pointer;
+    
+}
+.nav{
+    border:#fff8f5 solid ;
+    display: flex;
+    color: #fff8f5;
+    justify-content: space-between;
+    border-width: 1px;
+    width: 1100px;
+
+}
+.navbar1{ 
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    justify-items: flex-end;
+    color: #fff8f5;
+    gap:20px;
+} 
+li a{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+.nav-link{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+    color: #fff8f5;
+    justify-items: center;
+    justify-content: space-between;
+    gap: 60px;
+}
