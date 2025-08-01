@@ -12,10 +12,10 @@
 }
 .head2{
     background-color: #292e36;
-    padding: 50px 50px;
+    padding: 30px 30px;
     justify-content: space-between;
-    padding-top: 50px;
-/*     border-radius: 2px 2px; */
+    padding-top: 40px;
+    border-left: 2px 2px;
     align-items: center;
     
 }
@@ -32,7 +32,7 @@
 .top{
     display: flex;
     justify-content: space-around;
-    gap: 200px;
+    gap: 20px;
 }
 .cart{
     height: 20px;
