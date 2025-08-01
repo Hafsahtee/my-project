@@ -30,16 +30,6 @@
     border: #E1B168 solid;
     padding: 10px 10px;
     margin-top: 15px;
-
-
-    
-/*     color: #fff8f5;
-    padding: 10px 20px;
-    margin-top: 15px;
-    border-radius: 2px;
-    border: #e1b168 solid;
-    height: 30px;
-    display: inline; */
 }
 .top{
     display: flex;
@@ -56,22 +46,12 @@
     border-radius: 5PX;
     border: none;
     padding: 10px 10px;
-    margin-top: 30px;
-/*     background-color: #E1b168;
-    padding: 10px 20p;
-    margin-top: 30px;
-    border: 1px solid #e1b168;
-    cursor: pointer; */
-    
+    margin-top: 30px;     
 }
 
 .nav{
     border:#fff8f5 solid ;
-    display: flex;
-    color: #fff8f5;
-    justify-content: space-between;
-    border-width: 1px;
-    width: 1100px;
+    padding:1px 1px;
 
 }
 .navbar1{ 
@@ -81,7 +61,8 @@
     justify-content:space-between;
     justify-items: flex-end;
     color: #fff8f5;
-    gap:20px;
+    gap:2px;
+    font-weight:100px;
 } 
 li a{
     list-style: none;
