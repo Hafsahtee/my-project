@@ -21,13 +21,25 @@
 }
 
 .call{
+    background-color: #292E36;
     color: #fff8f5;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 14px;
+    display: inline-block;
+    border: #E1B168 solid;
+    padding: 10px 10px;
+    margin-top: 15px;
+
+
+    
+/*     color: #fff8f5;
     padding: 10px 20px;
     margin-top: 15px;
     border-radius: 2px;
     border: #e1b168 solid;
     height: 30px;
-    display: inline;
+    display: inline; */
 }
 .top{
     display: flex;
@@ -39,11 +51,17 @@
     width: 30px
 }
 .Reserve{
-    background-color: #E1b168;
+
+    background-color: #E1B168;
+    border-radius: 5PX;
+    border: none;
+    padding: 10px 10px;
+    margin-top: 30px;
+/*     background-color: #E1b168;
     padding: 10px 20p;
     margin-top: 30px;
     border: 1px solid #e1b168;
-    cursor: pointer;
+    cursor: pointer; */
     
 }
 
